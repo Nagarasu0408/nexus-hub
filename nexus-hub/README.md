@@ -393,7 +393,7 @@ Contributions welcome! Please:
 
 - **Issues:** GitHub Issues
 - **Documentation:** See inline code comments & API docs above
-- **Email:** naga@nexus.local
+- **Email:** 
 
 ---
 
